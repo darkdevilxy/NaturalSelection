@@ -1,4 +1,4 @@
-This game inspired from [Primer] [Simulating Natural Selection ] video on youtube.
+This game is inspired from [Primer] [Simulating Natural Selection ] video on youtube.
 
 
 
